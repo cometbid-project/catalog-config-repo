@@ -1,3 +1,2 @@
 polar:
   greeting: "Welcome to the production catalog from the config server"
-  catalog-service-uri: "http://localhost:9001"
